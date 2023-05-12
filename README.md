@@ -15,6 +15,7 @@
   - Clarifai API
   - Heroku
   - pgAdmin4
+  - Postman
   - PostgreSQL
   - React Parallax Tilt
   - React Scripts 
