@@ -5,7 +5,7 @@
 - Features include: 
   - Profile Registration Form
   - Sign-In/Sign-Out
-  - Face Detection API (Clarifai)
+  - Face Detection Model
   - Total Entry Count  
 
 ## Resources
